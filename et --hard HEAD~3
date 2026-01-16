@@ -1,0 +1,10 @@
+[33m3bfa2c3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mfinal-submission-jan13[m[33m)[m Merge branch 'dev'
+[33meda0255[m[33m ([m[1;31morigin/rag-pipeline[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/chat-interface[m[33m, [m[1;32mrag-pipeline[m[33m, [m[1;32mchat-interface[m[33m)[m Task 3: Complete RAG pipeline evaluation with simulated results
+[33m6bf2cb2[m Save EDA preprocessing progress before switching branches
+[33mdb6ab00[m Interim submission ready: Task 1 and Task 2 complete
+[33m920d1bf[m Merge Task 2: Text chunking and embedding
+[33m610bb2b[m[33m ([m[1;31morigin/chunking-embedding[m[33m)[m Task 2: Completed chunking and embedding with working notebook
+[33ma99e649[m Merge pull request #3 from Newaznezif/rag-pipeline
+[33mc540f48[m Task 3: RAG pipeline implementation with evaluation framework
+[33m5bdd0df[m Merge pull request #2 from Newaznezif/chunking-embedding
+[33m6c3ce4f[m Completed Task 2: Chunking, embedding, and vector store
