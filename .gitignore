@@ -1,0 +1,30 @@
+# Data files
+data/raw/*
+!data/raw/.gitkeep
+data/processed/temp_*
+*.csv
+*.parquet
+*.pkl
+
+# Vector stores
+vector_store/**/*
+!vector_store/.gitkeep
+
+# Environment
+venv/
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+# Snyk Security Extension - AI Rules (auto-generated)
+.github/instructions/snyk_rules.instructions.md
