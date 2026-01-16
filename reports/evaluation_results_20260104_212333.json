@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-01-04T21:23:33.279201",
+  "questions": [
+    {
+      "Question": "What are common credit card complaints?",
+      "Category": "Credit Cards",
+      "Expected Topics": [
+        "billing",
+        "fees",
+        "interest",
+        "unauthorized charges"
+      ]
+    },
+    {
+      "Question": "Issues with savings accounts?",
+      "Category": "Savings Accounts",
+      "Expected Topics": [
+        "fees",
+        "withdrawal",
+        "interest",
+        "service"
+      ]
+    },
+    {
+      "Question": "Problems with money transfers?",
+      "Category": "Money Transfers",
+      "Expected Topics": [
+        "failed",
+        "delays",
+        "fees",
+        "customer service"
+      ]
+    }
+  ],
+  "results": [
+    {
+      "Question": "What are common credit card complaints?",
+      "Category": "Credit Cards",
+      "Answer": "Based on customer complaints, common credit card issues include unauthorized charges, billing errors, high interest rates, and poor customer service when disputing charges.",
+      "Score": 8.5,
+      "Expected Topics": [
+        "billing",
+        "fees",
+        "interest",
+        "unauthorized charges"
+      ]
+    },
+    {
+      "Question": "Issues with savings accounts?",
+      "Category": "Savings Accounts",
+      "Answer": "Savings account complaints typically involve unexpected fees, withdrawal restrictions, low interest rates, and account maintenance issues.",
+      "Score": 7.8,
+      "Expected Topics": [
+        "fees",
+        "withdrawal",
+        "interest",
+        "service"
+      ]
+    },
+    {
+      "Question": "Problems with money transfers?",
+      "Category": "Money Transfers",
+      "Answer": "Money transfer problems include failed transactions, processing delays, hidden fees, and difficulties with international transfers.",
+      "Score": 8.0,
+      "Expected Topics": [
+        "failed",
+        "delays",
+        "fees",
+        "customer service"
+      ]
+    }
+  ],
+  "summary": {
+    "average_score": 8.1,
+    "total_questions": 3
+  }
+}
